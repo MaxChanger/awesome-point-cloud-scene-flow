@@ -7,6 +7,13 @@
 ```
 
 ---
+## 2021
+- Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)
+- **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)
+- Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306)
+- **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798)
+
+
 ## 2020
 - **[ECCV 20]** PointPWC-Net: A Coarse-to-Fine Network for Supervised and Self-Supervised Scene Flow Estimation on 3D Point Clouds [[1911.12408]](http://arxiv.org/abs/1911.12408)[[code]](https://github.com/DylanWusee/PointPWC)![GitHub stars](https://img.shields.io/github/stars/DylanWusee/PointPWC.svg?logo=github&label=Stars)
 - **[ECCV 20]** FLOT: Scene Flow on Point Clouds Guided by Optimal Transport [[2007.11142]](http://arxiv.org/abs/2007.11142)[[code]](https://github.com/valeoai/FLOT)![GitHub stars](https://img.shields.io/github/stars/valeoai/FLOT.svg?logo=github&label=Stars)
