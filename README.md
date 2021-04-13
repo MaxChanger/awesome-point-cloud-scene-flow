@@ -12,6 +12,7 @@
 - **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)
 - Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306)
 - **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798)
+- Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds [[2104.04724]](https://arxiv.org/abs/2104.04724)
 
 
 ## 2020
