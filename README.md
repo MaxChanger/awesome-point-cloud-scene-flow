@@ -26,7 +26,7 @@
 - PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization [[2012.00972]](https://arxiv.org/abs/2012.00972)
 - FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation [[2011.10147]](https://arxiv.org/abs/2011.10147)
 - RAFT-3D: Scene Flow using Rigid-Motion Embeddings [[2012.00726]](http://arxiv.org/abs/2012.00726)
-- PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds [[2012.00987]](https://arxiv.org/abs/2012.00987)
+- **[CVPR 21]** PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds [[2012.00987]](https://arxiv.org/abs/2012.00987) [[code]](https://github.com/weiyithu/PV-RAFT)![GitHub stars](https://img.shields.io/github/stars/weiyithu/PV-RAFT.svg?logo=github&label=Stars)
 - VoxFlowNet: Learning Scene Flow in 3D Point Clouds through Voxel Grids [[code]](https://github.com/pablorpalafox/voxflownet)![GitHub stars](https://img.shields.io/github/stars/pablorpalafox/voxflownet.svg?logo=github&label=Stars)
 
 
