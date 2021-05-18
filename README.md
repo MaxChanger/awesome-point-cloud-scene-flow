@@ -14,6 +14,7 @@
 - **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798)
 - Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds [[2104.04724]](https://arxiv.org/abs/2104.04724)
 - SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
+- **[CVPR 21]** HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding [[2105.07751]](http://arxiv.org/abs/2105.07751)
 
 
 ## 2020
