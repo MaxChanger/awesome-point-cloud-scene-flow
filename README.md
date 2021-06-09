@@ -21,6 +21,7 @@
 ## 2020
 - **[ECCV 20]** PointPWC-Net: A Coarse-to-Fine Network for Supervised and Self-Supervised Scene Flow Estimation on 3D Point Clouds [[1911.12408]](http://arxiv.org/abs/1911.12408)[[code]](https://github.com/DylanWusee/PointPWC)![GitHub stars](https://img.shields.io/github/stars/DylanWusee/PointPWC.svg?logo=github&label=Stars)
 - **[ECCV 20]** FLOT: Scene Flow on Point Clouds Guided by Optimal Transport [[2007.11142]](http://arxiv.org/abs/2007.11142)[[code]](https://github.com/valeoai/FLOT)![GitHub stars](https://img.shields.io/github/stars/valeoai/FLOT.svg?logo=github&label=Stars)
+- **[3DV 20]** Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion [[2009.10467]](http://arxiv.org/abs/2009.10467) [[code]](https://github.com/ivantishchenko/Self-Supervised_Non-Rigid_Flow_and_Ego-Motion)![GitHub stars](https://img.shields.io/github/stars/ivantishchenko/Self-Supervised_Non-Rigid_Flow_and_Ego-Motion.svg?logo=github&label=Stars)
 - **[3DV 20]** Scene Flow from Point Clouds with or without Learning [[2011.00320]](http://arxiv.org/abs/2011.00320)
 - **[3DV 20]** Adversarial Self-Supervised Scene Flow Estimation [[2011.00551]](http://arxiv.org/abs/2011.00551)
 - **[[WACV 20](https://openaccess.thecvf.com/content_WACV_2020/html/Wang_FlowNet3D_Geometric_Losses_For_Deep_Scene_Flow_Estimation_WACV_2020_paper.html)]** FlowNet3D++: Geometric Losses For Deep Scene Flow Estimation [[1912.01438]](http://arxiv.org/abs/1912.01438)
