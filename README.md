@@ -16,6 +16,7 @@
 - SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
 - **[CVPR 21]** HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding [[2105.07751]](http://arxiv.org/abs/2105.07751)
 - **[CVPR 21 Oral]** Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk [[2105.08248]](https://arxiv.org/abs/2105.08248)
+- **[Arxiv]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
 
 
 ## 2020
