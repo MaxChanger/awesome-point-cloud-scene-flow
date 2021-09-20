@@ -33,6 +33,7 @@
 - RAFT-3D: Scene Flow using Rigid-Motion Embeddings [[2012.00726]](http://arxiv.org/abs/2012.00726)
 - **[CVPR 21]** PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds [[2012.00987]](https://arxiv.org/abs/2012.00987) [[code]](https://github.com/weiyithu/PV-RAFT)![GitHub stars](https://img.shields.io/github/stars/weiyithu/PV-RAFT.svg?logo=github&label=Stars)
 - VoxFlowNet: Learning Scene Flow in 3D Point Clouds through Voxel Grids [[code]](https://github.com/pablorpalafox/voxflownet)![GitHub stars](https://img.shields.io/github/stars/pablorpalafox/voxflownet.svg?logo=github&label=Stars)
+- **[IROS 20]** PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation [[IROS20]](http://ras.papercept.net/images/temp/IROS/files/1208.pdf)
 
 
 
