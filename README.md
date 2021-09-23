@@ -8,7 +8,7 @@
 
 ---
 ## 2021
-- Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)
+- **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)
 - **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)
 - Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306)
 - **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798)
@@ -27,10 +27,10 @@
 - **[3DV 20]** Adversarial Self-Supervised Scene Flow Estimation [[2011.00551]](http://arxiv.org/abs/2011.00551)
 - **[[WACV 20](https://openaccess.thecvf.com/content_WACV_2020/html/Wang_FlowNet3D_Geometric_Losses_For_Deep_Scene_Flow_Estimation_WACV_2020_paper.html)]** FlowNet3D++: Geometric Losses For Deep Scene Flow Estimation [[1912.01438]](http://arxiv.org/abs/1912.01438)
 - **[[CVPR 20](https://openaccess.thecvf.com/content_CVPR_2020/html/Mittal_Just_Go_With_the_Flow_Self-Supervised_Scene_Flow_Estimation_CVPR_2020_paper.html)]** Just Go With the Flow: Self-Supervised Scene Flow Estimation [[1912.00497]](https://arxiv.org/abs/1912.00497)[[code]](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)![GitHub stars](https://img.shields.io/github/stars/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation.svg?logo=github&label=Stars)
-- Hierarchical Attention Learning of Scene Flow in 3D Point Clouds [[2010.05762]](https://arxiv.org/abs/2010.05762)
-- PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization [[2012.00972]](https://arxiv.org/abs/2012.00972)
-- FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation [[2011.10147]](https://arxiv.org/abs/2011.10147)
-- RAFT-3D: Scene Flow using Rigid-Motion Embeddings [[2012.00726]](http://arxiv.org/abs/2012.00726)
+- **[[TIP](http://ieeexplore.ieee.org/document/9435105/)]** Hierarchical Attention Learning of Scene Flow in 3D Point Clouds [[2010.05762]](https://arxiv.org/abs/2010.05762) 
+- **[CVPR 21]** PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization [[2012.00972]](https://arxiv.org/abs/2012.00972)
+- **[CVPR 21]** FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation [[2011.10147]](https://arxiv.org/abs/2011.10147)
+- **[CVPR 21]** RAFT-3D: Scene Flow using Rigid-Motion Embeddings [[2012.00726]](http://arxiv.org/abs/2012.00726)
 - **[CVPR 21]** PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds [[2012.00987]](https://arxiv.org/abs/2012.00987) [[code]](https://github.com/weiyithu/PV-RAFT)![GitHub stars](https://img.shields.io/github/stars/weiyithu/PV-RAFT.svg?logo=github&label=Stars)
 - VoxFlowNet: Learning Scene Flow in 3D Point Clouds through Voxel Grids [[code]](https://github.com/pablorpalafox/voxflownet)![GitHub stars](https://img.shields.io/github/stars/pablorpalafox/voxflownet.svg?logo=github&label=Stars)
 - **[IROS 20]** PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation [[IROS20]](http://ras.papercept.net/images/temp/IROS/files/1208.pdf)
