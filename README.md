@@ -8,9 +8,9 @@
 
 ---
 ## 2021
-- **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)
-- **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)
-- Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306)
+- **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)![GitHub stars](https://img.shields.io/github/stars/gengshan-y/rigidmask.svg?logo=github&label=Stars)
+- **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)![GitHub stars](https://img.shields.io/github/stars/zgojcic/Rigid3DSceneFlow.svg?logo=github&label=Stars)
+- Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306) [[code]](https://github.com/Jabb0/FastFlow3D)![GitHub stars](https://img.shields.io/github/stars/Jabb0/FastFlow3D.svg?logo=github&label=Stars)
 - **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798)
 - Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds [[2104.04724]](https://arxiv.org/abs/2104.04724)
 - SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
