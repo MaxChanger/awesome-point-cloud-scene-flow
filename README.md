@@ -17,6 +17,7 @@
 - **[CVPR 21]** HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding [[2105.07751]](http://arxiv.org/abs/2105.07751)
 - **[CVPR 21 Oral]** Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk [[2105.08248]](https://arxiv.org/abs/2105.08248)
 - **[Arxiv]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
+- **[NeurIPS 21]** Accurate Point Cloud Registration with Robust Optimal Transport [[2111.00648]](http://arxiv.org/abs/2111.00648) [[code]](https://github.com/uncbiag/robot)
 - **[NeurIPS 21 spotlight]** Neural Scene Flow Prior [[2111.01253]](https://arxiv.org/abs/2111.01253) [[code]](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/Neural_Scene_Flow_Prior.svg?logo=github&label=Stars)
 
 
