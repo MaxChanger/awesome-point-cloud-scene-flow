@@ -5,18 +5,22 @@
 - Recent papers (from 2019) 
 - welcome to add if any information misses. 😎
 ```
-
 ---
+
+## 2022
+- **[arXiv]** Self-Supervised Scene Flow Estimation with 4D Automotive Radar [[2203.01137]](http://arxiv.org/abs/2203.01137)[[code]](https://github.com/Toytiny/RaFlow)![GitHub stars](https://img.shields.io/github/stars/Toytiny/RaFlow.svg?logo=github&label=Stars)
+
 ## 2021
 - **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)![GitHub stars](https://img.shields.io/github/stars/gengshan-y/rigidmask.svg?logo=github&label=Stars)
 - **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)![GitHub stars](https://img.shields.io/github/stars/zgojcic/Rigid3DSceneFlow.svg?logo=github&label=Stars)
-- Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306) [[code]](https://github.com/Jabb0/FastFlow3D)![GitHub stars](https://img.shields.io/github/stars/Jabb0/FastFlow3D.svg?logo=github&label=Stars)
-- **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798)
-- Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds [[2104.04724]](https://arxiv.org/abs/2104.04724)
-- SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
+- **[RA-L 21]** Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306) [[code]](https://github.com/Jabb0/FastFlow3D)![GitHub stars](https://img.shields.io/github/stars/Jabb0/FastFlow3D.svg?logo=github&label=Stars)
+- **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798) [[code]](https://github.com/InterDigitalInc/FESTA)![GitHub stars](https://img.shields.io/github/stars/InterDigitalInc/FESTA.svg?logo=github&label=Stars)
+- **[CVPRW 21]** Occlusion Guided Scene Flow Estimation on 3D Point Clouds [[2104.00798]](http://arxiv.org/abs/2011.14880) [[code]](https://github.com/BillOuyang/OGSFNet)![GitHub stars](https://img.shields.io/github/stars/BillOuyang/OGSFNet.svg?logo=github&label=Stars)
+- **[3DV 21]** Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds [[2104.04724]](https://arxiv.org/abs/2104.04724)
+- **[arXiv]** SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
 - **[CVPR 21]** HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding [[2105.07751]](http://arxiv.org/abs/2105.07751)
 - **[CVPR 21 Oral]** Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk [[2105.08248]](https://arxiv.org/abs/2105.08248)
-- **[Arxiv]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
+- **[arXiv]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
 - **[NeurIPS 21]** Accurate Point Cloud Registration with Robust Optimal Transport [[2111.00648]](http://arxiv.org/abs/2111.00648) [[code]](https://github.com/uncbiag/robot)
 - **[NeurIPS 21 spotlight]** Neural Scene Flow Prior [[2111.01253]](https://arxiv.org/abs/2111.01253) [[code]](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/Neural_Scene_Flow_Prior.svg?logo=github&label=Stars)
 
