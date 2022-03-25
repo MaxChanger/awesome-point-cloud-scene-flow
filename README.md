@@ -9,6 +9,7 @@
 
 ## 2022
 - **[arXiv]** Self-Supervised Scene Flow Estimation with 4D Automotive Radar [[2203.01137]](http://arxiv.org/abs/2203.01137)[[code]](https://github.com/Toytiny/RaFlow)![GitHub stars](https://img.shields.io/github/stars/Toytiny/RaFlow.svg?logo=github&label=Stars)
+- **[arXiv]** Learning Scene Flow in 3D Point Clouds with Noisy Pseudo Labels [[2203.12655]](http://arxiv.org/abs/2203.12655)
 
 ## 2021
 - **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)![GitHub stars](https://img.shields.io/github/stars/gengshan-y/rigidmask.svg?logo=github&label=Stars)
