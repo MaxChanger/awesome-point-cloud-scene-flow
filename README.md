@@ -8,6 +8,7 @@
 ---
 
 ## 2022
+- **[AAAI 22]** Self-Supervised Robust Scene Flow Estimation via the Alignment of Probability Density Functions [[2203.12193]](https://arxiv.org/abs/2203.12193)
 - **[arXiv]** Self-Supervised Scene Flow Estimation with 4D Automotive Radar [[2203.01137]](http://arxiv.org/abs/2203.01137)[[code]](https://github.com/Toytiny/RaFlow)![GitHub stars](https://img.shields.io/github/stars/Toytiny/RaFlow.svg?logo=github&label=Stars)
 - **[arXiv]** Learning Scene Flow in 3D Point Clouds with Noisy Pseudo Labels [[2203.12655]](http://arxiv.org/abs/2203.12655)
 
