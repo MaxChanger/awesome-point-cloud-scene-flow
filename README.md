@@ -8,6 +8,7 @@
 ---
 
 ## 2022
+- **[CVPR 22]** Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds [[2203.16895]](https://arxiv.org/abs/2203.16895) [[code]](https://github.com/leolyj/DCA-SRSFE)![GitHub stars](https://img.shields.io/github/stars/leolyj/DCA-SRSFE.svg?logo=github&label=Stars)
 - **[ICRA 22]** RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds [[2204.00354]](https://arxiv.org/abs/2204.00354)
 - **[AAAI 22]** Self-Supervised Robust Scene Flow Estimation via the Alignment of Probability Density Functions [[2203.12193]](https://arxiv.org/abs/2203.12193)
 - **[[IJCV](https://link.springer.com/article/10.1007/s11263-021-01551-y)]** Learning Scene Dynamics from Point Cloud Sequences [[2111.08755]](https://arxiv.org/abs/2111.08755) [[code]](https://github.com/BestSonny/SPCM)![GitHub stars](https://img.shields.io/github/stars/BestSonny/SPCM.svg?logo=github&label=Stars)
