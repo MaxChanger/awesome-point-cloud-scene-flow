@@ -25,7 +25,7 @@
 - **[arXiv]** SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
 - **[CVPR 21]** HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding [[2105.07751]](http://arxiv.org/abs/2105.07751)
 - **[CVPR 21 Oral]** Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk [[2105.08248]](https://arxiv.org/abs/2105.08248)
-- **[arXiv]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
+- **[[TIM 22](https://ieeexplore.ieee.org/abstract/document/9754543)]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
 - **[NeurIPS 21]** Accurate Point Cloud Registration with Robust Optimal Transport [[2111.00648]](http://arxiv.org/abs/2111.00648) [[code]](https://github.com/uncbiag/robot)
 - **[NeurIPS 21 spotlight]** Neural Scene Flow Prior [[2111.01253]](https://arxiv.org/abs/2111.01253) [[code]](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/Neural_Scene_Flow_Prior.svg?logo=github&label=Stars)
 
@@ -38,7 +38,7 @@
 - **[3DV 20]** Adversarial Self-Supervised Scene Flow Estimation [[2011.00551]](http://arxiv.org/abs/2011.00551)
 - **[[WACV 20](https://openaccess.thecvf.com/content_WACV_2020/html/Wang_FlowNet3D_Geometric_Losses_For_Deep_Scene_Flow_Estimation_WACV_2020_paper.html)]** FlowNet3D++: Geometric Losses For Deep Scene Flow Estimation [[1912.01438]](http://arxiv.org/abs/1912.01438)
 - **[[CVPR 20](https://openaccess.thecvf.com/content_CVPR_2020/html/Mittal_Just_Go_With_the_Flow_Self-Supervised_Scene_Flow_Estimation_CVPR_2020_paper.html)]** Just Go With the Flow: Self-Supervised Scene Flow Estimation [[1912.00497]](https://arxiv.org/abs/1912.00497)[[code]](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)![GitHub stars](https://img.shields.io/github/stars/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation.svg?logo=github&label=Stars)
-- **[[TIP](http://ieeexplore.ieee.org/document/9435105/)]** Hierarchical Attention Learning of Scene Flow in 3D Point Clouds [[2010.05762]](https://arxiv.org/abs/2010.05762) 
+- **[[TIP 21](http://ieeexplore.ieee.org/document/9435105/)]** Hierarchical Attention Learning of Scene Flow in 3D Point Clouds [[2010.05762]](https://arxiv.org/abs/2010.05762) 
 - **[CVPR 21]** PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization [[2012.00972]](https://arxiv.org/abs/2012.00972)
 - **[CVPR 21]** FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation [[2011.10147]](https://arxiv.org/abs/2011.10147)
 - **[CVPR 21]** RAFT-3D: Scene Flow using Rigid-Motion Embeddings [[2012.00726]](http://arxiv.org/abs/2012.00726)
