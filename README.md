@@ -16,6 +16,7 @@
 - **[arXiv]** Learning Scene Flow in 3D Point Clouds with Noisy Pseudo Labels [[2203.12655]](http://arxiv.org/abs/2203.12655)
 
 ## 2021
+- **[CVPR 21]** Self-Supervised Pillar Motion Learning for Autonomous Driving [[2104.08683]](http://arxiv.org/abs/2104.08683)[[code]](https://github.com/qcraftai/pillar-motion)![GitHub stars](https://img.shields.io/github/stars/qcraftai/pillar-motion.svg?logo=github&label=Stars)
 - **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)![GitHub stars](https://img.shields.io/github/stars/gengshan-y/rigidmask.svg?logo=github&label=Stars)
 - **[CVPR 21 Oral]** Weakly Supervised Learning of Rigid 3D Scene Flow [[2102.08945]](http://arxiv.org/abs/2102.08945)[[code]](https://github.com/zgojcic/Rigid3DSceneFlow)![GitHub stars](https://img.shields.io/github/stars/zgojcic/Rigid3DSceneFlow.svg?logo=github&label=Stars)
 - **[RA-L 21]** Scalable Scene Flow from Point Clouds in the Real World [[2103.01306]](http://arxiv.org/abs/2103.01306) [[code]](https://github.com/Jabb0/FastFlow3D)![GitHub stars](https://img.shields.io/github/stars/Jabb0/FastFlow3D.svg?logo=github&label=Stars)
