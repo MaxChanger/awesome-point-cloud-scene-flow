@@ -8,6 +8,7 @@
 ---
 
 ## 2022
+- **[ECCV 22]** Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation [[2207.07522]](https://arxiv.org/abs/2207.07522) [[code]](https://github.com/cwc1260/BiFlow)![GitHub stars](https://img.shields.io/github/stars/cwc1260/BiFlow.svg?logo=github&label=Stars)
 - **[CVPR 22]** RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds [[2205.11028]](https://arxiv.org/abs/2205.11028) [[code]](https://github.com/gxd1994/RCP)![GitHub stars](https://img.shields.io/github/stars/gxd1994/RCP.svg?logo=github&label=Stars)
 - **[CVPR 22]** Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds [[2203.16895]](https://arxiv.org/abs/2203.16895) [[code]](https://github.com/leolyj/DCA-SRSFE)![GitHub stars](https://img.shields.io/github/stars/leolyj/DCA-SRSFE.svg?logo=github&label=Stars)
 - **[ICRA 22]** RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds [[2204.00354]](https://arxiv.org/abs/2204.00354)
