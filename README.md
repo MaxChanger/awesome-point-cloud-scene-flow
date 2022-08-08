@@ -9,6 +9,7 @@
 
 ## 2022
 - **[arXiv]** PointConvFormer: Revenge of the Point-based Convolution [[2208.02879]](https://arxiv.org/abs/2208.02879)
+- **[ECCV 22]** Dynamic 3D Scene Analysis by Point Cloud Accumulation [[2207.12394]](http://arxiv.org/abs/2207.12394) [[code]](https://github.com/prs-eth/PCAccumulation)![GitHub stars](https://img.shields.io/github/stars/prs-eth/PCAccumulation.svg?logo=github&label=Stars)
 - **[ECCV 22]** What Matters for 3D Scene Flow Network [[2207.09143]](https://arxiv.org/abs/2207.09143) [[code]](https://github.com/IRMVLab/3DFlow)![GitHub stars](https://img.shields.io/github/stars/IRMVLab/3DFlow.svg?logo=github&label=Stars)
 - **[ECCV 22]** Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation [[2207.07522]](https://arxiv.org/abs/2207.07522) [[code]](https://github.com/cwc1260/BiFlow)![GitHub stars](https://img.shields.io/github/stars/cwc1260/BiFlow.svg?logo=github&label=Stars)
 - **[CVPR 22]** RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds [[2205.11028]](https://arxiv.org/abs/2205.11028) [[code]](https://github.com/gxd1994/RCP)![GitHub stars](https://img.shields.io/github/stars/gxd1994/RCP.svg?logo=github&label=Stars)
