@@ -8,6 +8,7 @@
 ---
 
 ## 2022
+- **[arxiv]** 3D Scene Flow Estimation on Pseudo-LiDAR: Bridging the Gap on Estimating Point Motion [[2209.13130]](https://arxiv.org/abs/2209.13130)
 - **[arXiv]** PointConvFormer: Revenge of the Point-based Convolution [[2208.02879]](https://arxiv.org/abs/2208.02879)
 - **[ECCV 22]** Dynamic 3D Scene Analysis by Point Cloud Accumulation [[2207.12394]](http://arxiv.org/abs/2207.12394) [[code]](https://github.com/prs-eth/PCAccumulation)![GitHub stars](https://img.shields.io/github/stars/prs-eth/PCAccumulation.svg?logo=github&label=Stars)
 - **[ECCV 22]** What Matters for 3D Scene Flow Network [[2207.09143]](https://arxiv.org/abs/2207.09143) [[code]](https://github.com/IRMVLab/3DFlow)![GitHub stars](https://img.shields.io/github/stars/IRMVLab/3DFlow.svg?logo=github&label=Stars)
