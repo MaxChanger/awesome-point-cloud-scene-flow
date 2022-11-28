@@ -8,6 +8,7 @@
 ---
 
 ## 2022
+- **[arXiv]** SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow [[2211.14020]](https://arxiv.org/abs/2211.14020)[[code]](https://github.com/itailang/SCOOP)![GitHub stars](https://img.shields.io/github/stars/itailang/SCOOP.svg?logo=github&label=Stars)
 - **[[RAL 22](https://ieeexplore.ieee.org/abstract/document/9920196)]** Estimation and Propagation: Scene Flow Prediction on Occluded Point Clouds
 - **[arxiv]** 3D Scene Flow Estimation on Pseudo-LiDAR: Bridging the Gap on Estimating Point Motion [[2209.13130]](https://arxiv.org/abs/2209.13130)
 - **[arXiv]** PointConvFormer: Revenge of the Point-based Convolution [[2208.02879]](https://arxiv.org/abs/2208.02879)
@@ -30,7 +31,7 @@
 - **[CVPR 21]** FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds [[2104.00798]](http://arxiv.org/abs/2104.00798) [[code]](https://github.com/InterDigitalInc/FESTA)![GitHub stars](https://img.shields.io/github/stars/InterDigitalInc/FESTA.svg?logo=github&label=Stars)
 - **[CVPRW 21]** Occlusion Guided Scene Flow Estimation on 3D Point Clouds [[2104.00798]](http://arxiv.org/abs/2011.14880) [[code]](https://github.com/BillOuyang/OGSFNet)![GitHub stars](https://img.shields.io/github/stars/BillOuyang/OGSFNet.svg?logo=github&label=Stars)
 - **[3DV 21]** Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds [[2104.04724]](https://arxiv.org/abs/2104.04724)
-- **[arXiv]** SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
+- **[AAAI 22]** SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[2105.04447]](http://arxiv.org/abs/2105.04447)
 - **[CVPR 21]** HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding [[2105.07751]](http://arxiv.org/abs/2105.07751)
 - **[CVPR 21 Oral]** Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk [[2105.08248]](https://arxiv.org/abs/2105.08248)
 - **[[TIM 22](https://ieeexplore.ieee.org/abstract/document/9754543)]** Residual 3D Scene Flow Learning with Context-Aware Feature Extraction [[2109.04685]](https://arxiv.org/abs/2109.04685)
