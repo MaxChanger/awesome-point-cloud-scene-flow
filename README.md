@@ -8,6 +8,7 @@
 ---
 
 ## 2022
+- **[[ECCV 22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990210.pdf)]** FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-world Point Clouds [[code]](https://github.com/pigtigger/FH-Net)![GitHub stars](https://img.shields.io/github/stars/pigtigger/FH-Net.svg?logo=github&label=Stars)
 - **[arXiv]** SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow [[2211.14020]](https://arxiv.org/abs/2211.14020)[[code]](https://github.com/itailang/SCOOP)![GitHub stars](https://img.shields.io/github/stars/itailang/SCOOP.svg?logo=github&label=Stars)
 - **[[RAL 22](https://ieeexplore.ieee.org/abstract/document/9920196)]** Estimation and Propagation: Scene Flow Prediction on Occluded Point Clouds
 - **[arxiv]** 3D Scene Flow Estimation on Pseudo-LiDAR: Bridging the Gap on Estimating Point Motion [[2209.13130]](https://arxiv.org/abs/2209.13130)
