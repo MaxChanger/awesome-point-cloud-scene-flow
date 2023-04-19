@@ -7,6 +7,7 @@
 ```
 ---
 ## 2023
+- **[arXiv]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)
 - **[arXiv]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150]](https://arxiv.org/abs/2304.02150)
 - **[[RAL 23](https://ieeexplore.ieee.org/abstract/document/10064005)]** PT-FlowNet: Scene Flow Estimation on Point Clouds with Point Transformer
 
