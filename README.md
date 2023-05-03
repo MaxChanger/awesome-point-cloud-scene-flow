@@ -7,6 +7,7 @@
 ```
 ---
 ## 2023
+- **[arXiv]** ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[2304.12589]](https://arxiv.org/abs/2304.12589)
 - **[arXiv]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)[[code]](https://github.com/Lilac-Lee/FastNSF)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/FastNSF.svg?logo=github&label=Stars)
 - **[arXiv]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150]](https://arxiv.org/abs/2304.02150)
 - **[[RAL 23](https://ieeexplore.ieee.org/abstract/document/10064005)]** PT-FlowNet: Scene Flow Estimation on Point Clouds with Point Transformer
