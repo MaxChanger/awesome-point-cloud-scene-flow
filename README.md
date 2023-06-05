@@ -7,6 +7,8 @@
 ```
 ---
 ## 2023
+- **[arXiv]** GMSF: Global Matching Scene Flow [[2305.17432]](https://arxiv.org/abs/2305.17432)
+- **[arXiv]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)
 - **[arXiv]** ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[2304.12589]](https://arxiv.org/abs/2304.12589)
 - **[arXiv]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)[[code]](https://github.com/Lilac-Lee/FastNSF)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/FastNSF.svg?logo=github&label=Stars)
 - **[arXiv]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150]](https://arxiv.org/abs/2304.02150)
