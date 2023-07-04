@@ -7,6 +7,7 @@
 ```
 ---
 ## 2023
+- **[CVPR 23]** Self-Supervised 3D Scene Flow Estimation Guided by Superpoints [[2305.02528]](https://arxiv.org/abs/2305.02528)[[code]](https://github.com/supersyq/SPFlowNet)![GitHub stars](https://img.shields.io/github/stars/supersyq/SPFlowNet.svg?logo=github&label=Stars)
 - **[arXiv]** GMSF: Global Matching Scene Flow [[2305.17432]](https://arxiv.org/abs/2305.17432)
 - **[arXiv]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)
 - **[arXiv]** ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[2304.12589]](https://arxiv.org/abs/2304.12589)
