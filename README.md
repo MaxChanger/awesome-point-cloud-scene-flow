@@ -8,9 +8,10 @@
 ---
 ## 2023
 - **[CVPR 23]** Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision [[2303.00462]](https://arxiv.org/abs/2303.00462)[[code]](https://github.com/Toytiny/CMFlow)![GitHub stars](https://img.shields.io/github/stars/supersyq/SPFlowNet.svg?logo=github&label=Stars)
+- **[CVPR 23]** SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow [[2211.14020]](https://arxiv.org/abs/2211.14020)[[code]](https://github.com/itailang/SCOOP)![GitHub stars](https://img.shields.io/github/stars/itailang/SCOOP.svg?logo=github&label=Stars)
 -  Self-Supervised 3D Scene Flow Estimation Guided by Superpoints [[2305.02528]](https://arxiv.org/abs/2305.02528)[[code]](https://github.com/supersyq/SPFlowNet)![GitHub stars](https://img.shields.io/github/stars/supersyq/SPFlowNet.svg?logo=github&label=Stars)
 - **[arXiv]** GMSF: Global Matching Scene Flow [[2305.17432]](https://arxiv.org/abs/2305.17432)
-- **[arXiv]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)
+- **[arXiv]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)[[code]](https://github.com/kylevedder/zeroflow)![GitHub stars](https://img.shields.io/github/stars/kylevedder/zeroflow.svg?logo=github&label=Stars)
 - **[arXiv]** ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[2304.12589]](https://arxiv.org/abs/2304.12589)
 - **[arXiv]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)[[code]](https://github.com/Lilac-Lee/FastNSF)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/FastNSF.svg?logo=github&label=Stars)
 - **[arXiv]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150]](https://arxiv.org/abs/2304.02150)
@@ -18,7 +19,6 @@
 
 ## 2022
 - **[[ECCV 22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990210.pdf)]** FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-world Point Clouds [[code]](https://github.com/pigtigger/FH-Net)![GitHub stars](https://img.shields.io/github/stars/pigtigger/FH-Net.svg?logo=github&label=Stars)
-- **[arXiv]** SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow [[2211.14020]](https://arxiv.org/abs/2211.14020)[[code]](https://github.com/itailang/SCOOP)![GitHub stars](https://img.shields.io/github/stars/itailang/SCOOP.svg?logo=github&label=Stars)
 - **[[RAL 22](https://ieeexplore.ieee.org/abstract/document/9920196)]** Estimation and Propagation: Scene Flow Prediction on Occluded Point Clouds
 - **[arxiv]** 3D Scene Flow Estimation on Pseudo-LiDAR: Bridging the Gap on Estimating Point Motion [[2209.13130]](https://arxiv.org/abs/2209.13130)
 - **[arXiv]** PointConvFormer: Revenge of the Point-based Convolution [[2208.02879]](https://arxiv.org/abs/2208.02879)
