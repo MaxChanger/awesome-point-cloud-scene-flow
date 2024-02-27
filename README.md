@@ -1,11 +1,21 @@
-# Awesome-Point-Cloud-Scene-Flow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Awesome-Point-Cloud-Scene-Flow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+---
 
 
 ```diff
 - Recent papers (from 2019) 
 - welcome to add if any information misses. 😎
 ```
+
+Sorted by the year of publication, check the dataset section for [scene flow dataset](#dataset).
+
 ---
+
+## 2024
+- **[WACV 24]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150]](https://arxiv.org/abs/2304.02150)
+- **[ICLR 24]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)[[code]](https://github.com/kylevedder/zeroflow)![GitHub stars](https://img.shields.io/github/stars/kylevedder/zeroflow.svg?logo=github&label=Stars)
+- **[ICRA 24]** DeFlow: Decoder of Scene Flow Network in Autonomous Driving [[2401.16122]](https://arxiv.org/abs/2401.16122)[[code]](https://github.com/KTH-RPL/DeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/DeFlow.svg?logo=github&label=Stars)
+
 ## 2023
 - **[3DV 24]** Multi-Body Neural Scene Flow [[2310.10301]](https://arxiv.org/abs/2310.10301)[[code]](https://github.com/kavisha725/MBNSF)![GitHub stars](https://img.shields.io/github/stars/kavisha725/MBNSF.svg?logo=github&label=Stars)
 - **[arXiv]** Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior [[2310.11284]](https://arxiv.org/abs/2310.11284)
@@ -14,15 +24,14 @@
 - **[CVPR 23]** SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow [[2211.14020]](https://arxiv.org/abs/2211.14020)[[code]](https://github.com/itailang/SCOOP)![GitHub stars](https://img.shields.io/github/stars/itailang/SCOOP.svg?logo=github&label=Stars)
 - **[CVPR 23]** Self-Supervised 3D Scene Flow Estimation Guided by Superpoints [[2305.02528]](https://arxiv.org/abs/2305.02528)[[code]](https://github.com/supersyq/SPFlowNet)![GitHub stars](https://img.shields.io/github/stars/supersyq/SPFlowNet.svg?logo=github&label=Stars)
 - **[arXiv]** GMSF: Global Matching Scene Flow [[2305.17432]](https://arxiv.org/abs/2305.17432)[[code]](https://github.com/ZhangYushan3/GMSF)![GitHub stars](https://img.shields.io/github/stars/ZhangYushan3/GMSF.svg?logo=github&label=Stars)
-- **[arXiv]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)[[code]](https://github.com/kylevedder/zeroflow)![GitHub stars](https://img.shields.io/github/stars/kylevedder/zeroflow.svg?logo=github&label=Stars)
 - **[arXiv]** ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[2304.12589]](https://arxiv.org/abs/2304.12589)
 - **[arXiv]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)[[code]](https://github.com/Lilac-Lee/FastNSF)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/FastNSF.svg?logo=github&label=Stars)
-- **[arXiv]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150]](https://arxiv.org/abs/2304.02150)
 - **[[RAL 23](https://ieeexplore.ieee.org/abstract/document/10064005)]** PT-FlowNet: Scene Flow Estimation on Point Clouds with Point Transformer
 - **[arXiv]** GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion in Particle Tracking [[2210.17012]](https://arxiv.org/abs/2210.17012)
 - **[arXiv]** PointFlowHop: Green and Interpretable Scene Flow Estimation from Consecutive Point Clouds [[2302.14193]](https://arxiv.org/abs/2302.14193)
 - **[arXiv]** Exploiting Implicit Rigidity Constraints via Weight-Sharing Aggregation for Scene Flow Estimation from Point Clouds [[2303.02454]](https://arxiv.org/abs/2303.02454)
   
+
 ## 2022
 - **[[ECCV 22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990210.pdf)]** FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-world Point Clouds [[code]](https://github.com/pigtigger/FH-Net)![GitHub stars](https://img.shields.io/github/stars/pigtigger/FH-Net.svg?logo=github&label=Stars)
 - **[[RAL 22](https://ieeexplore.ieee.org/abstract/document/9920196)]** Estimation and Propagation: Scene Flow Prediction on Occluded Point Clouds
@@ -39,6 +48,8 @@
 - **[RA-L&IROS 22]** Self-Supervised Scene Flow Estimation with 4D Automotive Radar [[2203.01137]](http://arxiv.org/abs/2203.01137)[[code]](https://github.com/Toytiny/RaFlow)![GitHub stars](https://img.shields.io/github/stars/Toytiny/RaFlow.svg?logo=github&label=Stars)
 - **[arXiv]** Learning Scene Flow in 3D Point Clouds with Noisy Pseudo Labels [[2203.12655]](http://arxiv.org/abs/2203.12655)
 - **[ACM MM 22]** RPPformer-Flow: Relative Position Guided Point Transformer for Scene Flow Estimation [[link]](https://dl.acm.org/doi/abs/10.1145/3503161.3547771) [[code]](https://github.com/ustc-hlli/RPPformer-Flow/tree/main)![GitHub stars](https://img.shields.io/github/stars/ustc-hlli/RPPformer-Flow.svg?logo=github&label=Stars)
+
+
 ## 2021
 - **[CVPR 21]** Self-Supervised Pillar Motion Learning for Autonomous Driving [[2104.08683]](http://arxiv.org/abs/2104.08683)[[code]](https://github.com/qcraftai/pillar-motion)![GitHub stars](https://img.shields.io/github/stars/qcraftai/pillar-motion.svg?logo=github&label=Stars)
 - **[CVPR 21]** Learning to Segment Rigid Motions from Two Frames [[2101.03694]](http://arxiv.org/abs/2101.03694)[[code]](https://github.com/gengshan-y/rigidmask)![GitHub stars](https://img.shields.io/github/stars/gengshan-y/rigidmask.svg?logo=github&label=Stars)
@@ -84,14 +95,19 @@
 ---
 ## Dataset
 
-Since there is currently **no raw dataset for Scene Flow Estimation with a point cloud as input**, the pioneers [FlowNet3D ](https://github.com/xingyul/flownet3d)and [HPLFlowNet ](https://github.com/laoreja/HPLFlowNet)provide two versions of the dataset based on the raw dataset.
+- 2024-02-27: More and more datasets are available for scene flow estimation in autonomous driving. The following is a list of datasets that are commonly used in recent papers.
+  - Waymo Open Dataset [[official website]](https://waymo.com/open/), processed available in [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
+  - Argoverse 2.0 [[official website]](https://www.argoverse.org/data.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/blob/master/0_preprocess.py) and [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
 
-- FlyingThings3D [[official website]](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
-- KITTI 2015 [[official website]](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
-- Processed by FlowNet3D [[code]](https://github.com/xingyul/flownet3d)
-- Processed by HPLFlowNet [[code]](https://github.com/laoreja/HPLFlowNet)
 
-> There are some differences in the way FlowNet3D and HPLFlowNet process data.
-> [FlowNet3D **only** provides the code to process FlyingThings3D, HPLFlowNet provides code to process FlyingThings3D and KITTI15]
-> Some papers will compare two kinds of data at the same time. [But at the moment there seems to be more comparisons on HPLFlowNet]
+- 2020-12-14: Since there is currently **no raw dataset for Scene Flow Estimation with a point cloud as input**, the pioneers [FlowNet3D ](https://github.com/xingyul/flownet3d)and [HPLFlowNet ](https://github.com/laoreja/HPLFlowNet)provide two versions of the dataset based on the raw dataset.
+
+  - FlyingThings3D [[official website]](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+  - KITTI 2015 [[official website]](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
+  - Processed by FlowNet3D [[code]](https://github.com/xingyul/flownet3d)
+  - Processed by HPLFlowNet [[code]](https://github.com/laoreja/HPLFlowNet)
+
+  > There are some differences in the way FlowNet3D and HPLFlowNet process data.
+  > [FlowNet3D **only** provides the code to process FlyingThings3D, HPLFlowNet provides code to process FlyingThings3D and KITTI15]
+  > Some papers will compare two kinds of data at the same time. [But at the moment there seems to be more comparisons on HPLFlowNet]
 
