@@ -16,6 +16,7 @@ Sorted by the year of publication, check the dataset section for [scene flow dat
 - **[ICLR 24]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)[[code]](https://github.com/kylevedder/zeroflow)![GitHub stars](https://img.shields.io/github/stars/kylevedder/zeroflow.svg?logo=github&label=Stars)
 - **[ICRA 24]** DeFlow: Decoder of Scene Flow Network in Autonomous Driving [[2401.16122]](https://arxiv.org/abs/2401.16122)[[code]](https://github.com/KTH-RPL/DeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/DeFlow.svg?logo=github&label=Stars)
 
+
 ## 2023
 - **[3DV 24]** Multi-Body Neural Scene Flow [[2310.10301]](https://arxiv.org/abs/2310.10301)[[code]](https://github.com/kavisha725/MBNSF)![GitHub stars](https://img.shields.io/github/stars/kavisha725/MBNSF.svg?logo=github&label=Stars)
 - **[arXiv]** Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior [[2310.11284]](https://arxiv.org/abs/2310.11284)
@@ -96,8 +97,8 @@ Sorted by the year of publication, check the dataset section for [scene flow dat
 ## Dataset
 
 - 2024-02-27: More and more datasets are available for scene flow estimation in autonomous driving. The following is a list of datasets that are commonly used in recent papers.
-  - Waymo Open Dataset [[official website]](https://waymo.com/open/), processed available in [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
-  - Argoverse 2.0 [[official website]](https://www.argoverse.org/data.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/blob/master/0_preprocess.py) and [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
+  - Waymo Open Dataset [official website](https://waymo.com/open/download/), processed available in [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
+  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/blob/master/0_preprocess.py) and [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
 
 
 - 2020-12-14: Since there is currently **no raw dataset for Scene Flow Estimation with a point cloud as input**, the pioneers [FlowNet3D ](https://github.com/xingyul/flownet3d)and [HPLFlowNet ](https://github.com/laoreja/HPLFlowNet)provide two versions of the dataset based on the raw dataset.
