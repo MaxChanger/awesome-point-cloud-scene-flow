@@ -21,17 +21,17 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 ## 2023
 - **[[TPAMI 23](https://ieeexplore.ieee.org/document/10178057)]** 3D Point-Voxel Correlation Fields for Scene Flow Estimation [code](https://github.com/weiyithu/PV-RAFT/tree/dpvraft) ![GitHub stars](https://img.shields.io/github/stars/weiyithu/PV-RAFT.svg?logo=github&label=Stars)
 - **[ICCV 23]** DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds [[2308.04383]](https://arxiv.org/abs/2308.04383)[[code]](https://github.com/IRMVLab/DELFlow)![GitHub stars](https://img.shields.io/github/stars/IRMVLab/DELFlow.svg?logo=github&label=Stars)
+- **[ICCV 23]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)[[code]](https://github.com/Lilac-Lee/FastNSF)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/FastNSF.svg?logo=github&label=Stars)
 - **[CVPR 23]** Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision [[2303.00462]](https://arxiv.org/abs/2303.00462)[[code]](https://github.com/Toytiny/CMFlow)![GitHub stars](https://img.shields.io/github/stars/Toytiny/CMFlow.svg?logo=github&label=Stars)
 - **[CVPR 23]** SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow [[2211.14020]](https://arxiv.org/abs/2211.14020)[[code]](https://github.com/itailang/SCOOP)![GitHub stars](https://img.shields.io/github/stars/itailang/SCOOP.svg?logo=github&label=Stars)
 - **[CVPR 23]** Self-Supervised 3D Scene Flow Estimation Guided by Superpoints [[2305.02528]](https://arxiv.org/abs/2305.02528)[[code]](https://github.com/supersyq/SPFlowNet)![GitHub stars](https://img.shields.io/github/stars/supersyq/SPFlowNet.svg?logo=github&label=Stars)
 - **[[NeurIPS 23](https://openreview.net/forum?id=dybrsuNAB9)]** GMSF: Global Matching Scene Flow [[2305.17432](https://arxiv.org/abs/2305.17432)] [[code](https://github.com/ZhangYushan3/GMSF)]![GitHub stars](https://img.shields.io/github/stars/ZhangYushan3/GMSF.svg?logo=github&label=Stars)
-- **[arXiv]** Fast Neural Scene Flow [[2304.09121]](https://arxiv.org/abs/2304.09121)[[code]](https://github.com/Lilac-Lee/FastNSF)![GitHub stars](https://img.shields.io/github/stars/Lilac-Lee/FastNSF.svg?logo=github&label=Stars)
+- **[[RAL 23](https://ieeexplore.ieee.org/abstract/document/10064005)]** PT-FlowNet: Scene Flow Estimation on Point Clouds with Point Transformer
 - **[arXiv]** Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior [[2310.11284]](https://arxiv.org/abs/2310.11284)
 - **[arXiv]** ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[2304.12589]](https://arxiv.org/abs/2304.12589)
 - **[arXiv]** GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion in Particle Tracking [[2210.17012]](https://arxiv.org/abs/2210.17012)
 - **[arXiv]** PointFlowHop: Green and Interpretable Scene Flow Estimation from Consecutive Point Clouds [[2302.14193]](https://arxiv.org/abs/2302.14193)
 - **[arXiv]** Exploiting Implicit Rigidity Constraints via Weight-Sharing Aggregation for Scene Flow Estimation from Point Clouds [[2303.02454]](https://arxiv.org/abs/2303.02454)
-- **[[RAL 23](https://ieeexplore.ieee.org/abstract/document/10064005)]** PT-FlowNet: Scene Flow Estimation on Point Clouds with Point Transformer
   
 
 ## 2022
