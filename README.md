@@ -3,7 +3,7 @@ Awesome-Point-Cloud-Scene-Flow [![Awesome](https://awesome.re/badge.svg)](https:
 
 
 ```diff
-- Recent papers (from 2019) 
+- Recent papers (from 2019), latest three years are listed and previous papers are in expandable list.
 - welcome to add if any information misses. 😎
 ```
 
@@ -33,7 +33,6 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 - **[arXiv]** PointFlowHop: Green and Interpretable Scene Flow Estimation from Consecutive Point Clouds [[2302.14193]](https://arxiv.org/abs/2302.14193)
 - **[arXiv]** Exploiting Implicit Rigidity Constraints via Weight-Sharing Aggregation for Scene Flow Estimation from Point Clouds [[2303.02454]](https://arxiv.org/abs/2303.02454)
   
-
 ## 2022
 - **[[ECCV 22](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990210.pdf)]** FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-world Point Clouds [code](https://github.com/pigtigger/FH-Net)![GitHub stars](https://img.shields.io/github/stars/pigtigger/FH-Net.svg?logo=github&label=Stars)
 - **[ECCV 22]** Dynamic 3D Scene Analysis by Point Cloud Accumulation [[2207.12394]](http://arxiv.org/abs/2207.12394) [[code]](https://github.com/prs-eth/PCAccumulation)![GitHub stars](https://img.shields.io/github/stars/prs-eth/PCAccumulation.svg?logo=github&label=Stars)
@@ -51,6 +50,11 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 - **[arXiv]** PointConvFormer: Revenge of the Point-based Convolution [[2208.02879]](https://arxiv.org/abs/2208.02879)
 - **[arXiv]** Learning Scene Flow in 3D Point Clouds with Noisy Pseudo Labels [[2203.12655]](http://arxiv.org/abs/2203.12655)
 
+
+## 2019 -2021
+
+<details>
+  <summary>[Click me to expand]</summary>
 
 ## 2021
 - **[CVPR 21]** Self-Supervised Pillar Motion Learning for Autonomous Driving [[2104.08683]](http://arxiv.org/abs/2104.08683)[[code]](https://github.com/qcraftai/pillar-motion)![GitHub stars](https://img.shields.io/github/stars/qcraftai/pillar-motion.svg?logo=github&label=Stars)
@@ -84,22 +88,20 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 - **[CVPR 21]** RAFT-3D: Scene Flow using Rigid-Motion Embeddings [[2012.00726]](http://arxiv.org/abs/2012.00726)
 - **[IROS 20]** PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation [[IROS20]](http://ras.papercept.net/images/temp/IROS/files/1208.pdf)
 
-
-
----
 ## 2019
 - **[[ICCV 19](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.html)]** MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences [[1910.09165](http://arxiv.org/abs/1910.09165)][[code](https://github.com/xingyul/meteornet)]![GitHub stars](https://img.shields.io/github/stars/xingyul/meteornet.svg?logo=github&label=Stars)
 - **[[CVPR 19](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.html)]** FlowNet3D: Learning Scene Flow in 3D Point Clouds [[1806.01411](https://arxiv.org/abs/1806.01411)][[code](https://github.com/xingyul/flownet3d)]![GitHub stars](https://img.shields.io/github/stars/xingyul/flownet3d.svg?logo=github&label=Stars)
 - **[[CVPR 19](https://openaccess.thecvf.com/content_CVPR_2019/html/Gu_HPLFlowNet_Hierarchical_Permutohedral_Lattice_FlowNet_for_Scene_Flow_Estimation_on_CVPR_2019_paper.html)]** HPLFlowNet: Hierarchical Permutohedral Lattice FlowNet for Scene Flow Estimation on Large-scale Point Clouds [[1906.05332](https://arxiv.org/abs/1906.05332)][[code](https://github.com/laoreja/HPLFlowNet)]![GitHub stars](https://img.shields.io/github/stars/laoreja/HPLFlowNet.svg?logo=github&label=Stars)
 
-
+</details>
 
 ---
+
 ## Dataset
 
 - 2024-02-27: More and more datasets are available for scene flow estimation in autonomous driving (network input: 80k-107k points/frame). The following is a list of datasets that are commonly used in recent papers.
   - Waymo Open Dataset [official website](https://waymo.com/open/download/), processed available in [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
-  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/blob/master/0_preprocess.py) and [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
+  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/blob/master/0_preprocess.py), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts) and [av2 official](https://github.com/argoverse/av2-api/blob/main/src/av2/torch/data_loaders/scene_flow.py)
 
 
 - 2020-12-14: Since there is currently **no raw dataset for Scene Flow Estimation with a point cloud as input** (network input: max to 8,192 points/frame), the pioneers [FlowNet3D ](https://github.com/xingyul/flownet3d)and [HPLFlowNet ](https://github.com/laoreja/HPLFlowNet)provide two versions of the dataset based on the raw dataset.
