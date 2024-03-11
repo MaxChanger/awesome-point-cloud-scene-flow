@@ -12,6 +12,7 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 ---
 
 ## 2024
+- **[arXiv]** DiffSF: Diffusion Models for Scene Flow Estimation [[2403.05327]](https://arxiv.org/abs/2403.05327)
 - **[arXiv]** I Can't Believe It's Not Scene Flow! [[2403.04739]](https://arxiv.org/abs/2403.04739)
 - **[ICRA 24]** DeFlow: Decoder of Scene Flow Network in Autonomous Driving [[2401.16122]](https://arxiv.org/abs/2401.16122)[[code]](https://github.com/KTH-RPL/DeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/DeFlow.svg?logo=github&label=Stars)
 - **[3DV 24]** Multi-Body Neural Scene Flow [[2310.10301]](https://arxiv.org/abs/2310.10301)[[code]](https://github.com/kavisha725/MBNSF)![GitHub stars](https://img.shields.io/github/stars/kavisha725/MBNSF.svg?logo=github&label=Stars)
