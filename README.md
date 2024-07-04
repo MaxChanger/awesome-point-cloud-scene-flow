@@ -12,6 +12,7 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 ---
 
 ## 2024
+- **[CVPR 24]** ICP-Flow: LiDAR Scene Flow Estimation with ICP [[2402.17351]](https://arxiv.org/abs/2402.17351) [[code]](https://github.com/yanconglin/ICP-Flow)![GitHub stars](https://img.shields.io/github/stars/yanconglin/ICP-Flow.svg?logo=github&label=Stars)
 - **[ECCV 24]** SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving [[code]](https://github.com/KTH-RPL/SeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/SeFlow.svg?logo=github&label=Stars)
 - **[arXiv]** Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering [[2404.083636]](https://arxiv.org/abs/2404.08363)[[code]](https://github.com/ctu-vras/let-it-flow)![GitHub stars](https://img.shields.io/github/stars/ctu-vras/let-it-flow.svg?logo=github&label=Stars)
 - **[CVPR 24]** DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement [[2311.17456]](https://arxiv.org/abs/2311.17456)[[code]](https://github.com/IRMVLab/DifFlow3D)![GitHub stars](https://img.shields.io/github/stars/IRMVLab/DifFlow3D.svg?logo=github&label=Stars)
