@@ -3,26 +3,25 @@ Awesome-Point-Cloud-Scene-Flow [![Awesome](https://awesome.re/badge.svg)](https:
 
 
 ```diff
-- Recent papers (from 2019), latest three years are listed and previous papers are in expandable list.
-- welcome to add if any information misses. 😎
+- Recent papers (from 2019), the last three years are listed and previous papers are in the expandable list.
+- welcome to add if any information is missing. 😎
 ```
 
-Sorted by the year of publication, whether open-sourced and date to public, check the dataset section for [scene flow dataset](#dataset).
+Sorted by: the year of official publication; whether open-sourced; and date for first public. Check the dataset section for [scene flow dataset](#dataset).
 
 ---
 
 ## 2024
+- **[ECCV 24]** SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving [[2407.01702]](https://arxiv.org/abs/2407.01702)[[code]](https://github.com/KTH-RPL/SeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/SeFlow.svg?logo=github&label=Stars)
+- **[ECCV 24]** I Can't Believe It's Not Scene Flow! [[2403.04739]](https://arxiv.org/abs/2403.04739)
 - **[CVPR 24]** ICP-Flow: LiDAR Scene Flow Estimation with ICP [[2402.17351]](https://arxiv.org/abs/2402.17351) [[code]](https://github.com/yanconglin/ICP-Flow)![GitHub stars](https://img.shields.io/github/stars/yanconglin/ICP-Flow.svg?logo=github&label=Stars)
-- **[ECCV 24]** SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving [[code]](https://github.com/KTH-RPL/SeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/SeFlow.svg?logo=github&label=Stars)
-- **[arXiv]** Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering [[2404.083636]](https://arxiv.org/abs/2404.08363)[[code]](https://github.com/ctu-vras/let-it-flow)![GitHub stars](https://img.shields.io/github/stars/ctu-vras/let-it-flow.svg?logo=github&label=Stars)
 - **[CVPR 24]** DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement [[2311.17456]](https://arxiv.org/abs/2311.17456)[[code]](https://github.com/IRMVLab/DifFlow3D)![GitHub stars](https://img.shields.io/github/stars/IRMVLab/DifFlow3D.svg?logo=github&label=Stars)
-- **[arXiv]** DiffSF: Diffusion Models for Scene Flow Estimation [[2403.05327]](https://arxiv.org/abs/2403.05327)
-- **[arXiv]** I Can't Believe It's Not Scene Flow! [[2403.04739]](https://arxiv.org/abs/2403.04739)
 - **[ICRA 24]** DeFlow: Decoder of Scene Flow Network in Autonomous Driving [[2401.16122]](https://arxiv.org/abs/2401.16122)[[code]](https://github.com/KTH-RPL/DeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/DeFlow.svg?logo=github&label=Stars)
 - **[3DV 24]** Multi-Body Neural Scene Flow [[2310.10301]](https://arxiv.org/abs/2310.10301)[[code]](https://github.com/kavisha725/MBNSF)![GitHub stars](https://img.shields.io/github/stars/kavisha725/MBNSF.svg?logo=github&label=Stars)
 - **[ICLR 24]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)[[code]](https://github.com/kylevedder/zeroflow)![GitHub stars](https://img.shields.io/github/stars/kylevedder/zeroflow.svg?logo=github&label=Stars)
 - **[[WACV 24](https://openaccess.thecvf.com/content/WACV2024/papers/Chodosh_Re-Evaluating_LiDAR_Scene_Flow_WACV_2024_paper.pdf)]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150](https://arxiv.org/abs/2304.02150)]
-
+- **[arXiv]** Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering [[2404.083636]](https://arxiv.org/abs/2404.08363)[[code]](https://github.com/ctu-vras/let-it-flow)![GitHub stars](https://img.shields.io/github/stars/ctu-vras/let-it-flow.svg?logo=github&label=Stars)
+- **[arXiv]** DiffSF: Diffusion Models for Scene Flow Estimation [[2403.05327]](https://arxiv.org/abs/2403.05327)
 
 ## 2023
 - **[[TPAMI 23](https://ieeexplore.ieee.org/document/10178057)]** 3D Point-Voxel Correlation Fields for Scene Flow Estimation [code](https://github.com/weiyithu/PV-RAFT/tree/dpvraft) ![GitHub stars](https://img.shields.io/github/stars/weiyithu/PV-RAFT.svg?logo=github&label=Stars)
@@ -106,8 +105,8 @@ Sorted by the year of publication, whether open-sourced and date to public, chec
 ## Dataset
 
 - 2024-02-27: More and more datasets are available for scene flow estimation in autonomous driving (network input: 80k-107k points/frame). The following is a list of datasets that are commonly used in recent papers.
-  - Waymo Open Dataset [official website](https://waymo.com/open/download/), processed available in [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
-  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/blob/master/0_preprocess.py), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts) and [av2 official](https://github.com/argoverse/av2-api/blob/main/src/av2/torch/data_loaders/scene_flow.py)
+  - Waymo Open Dataset [official website](https://waymo.com/open/download/), processed available in [SeFlow](https://github.com/KTH-RPL/SeFlow/tree/main/dataprocess), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
+  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/tree/main/dataprocess), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts) and [av2 official](https://github.com/argoverse/av2-api/blob/main/src/av2/torch/data_loaders/scene_flow.py)
 
 
 - 2020-12-14: Since there is currently **no raw dataset for Scene Flow Estimation with a point cloud as input** (network input: max to 8,192 points/frame), the pioneers [FlowNet3D ](https://github.com/xingyul/flownet3d)and [HPLFlowNet ](https://github.com/laoreja/HPLFlowNet)provide two versions of the dataset based on the raw dataset.
