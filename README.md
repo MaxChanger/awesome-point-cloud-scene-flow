@@ -20,9 +20,9 @@ Sorted by: the year of official publication; whether open-sourced; and date for 
 - **[CVPR 24]** DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement [[2311.17456]](https://arxiv.org/abs/2311.17456)[[code]](https://github.com/IRMVLab/DifFlow3D)![GitHub stars](https://img.shields.io/github/stars/IRMVLab/DifFlow3D.svg?logo=github&label=Stars)
 - **[ICRA 24]** DeFlow: Decoder of Scene Flow Network in Autonomous Driving [[2401.16122]](https://arxiv.org/abs/2401.16122)[[code]](https://github.com/KTH-RPL/DeFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/DeFlow.svg?logo=github&label=Stars)
 - **[3DV 24]** Multi-Body Neural Scene Flow [[2310.10301]](https://arxiv.org/abs/2310.10301)[[code]](https://github.com/kavisha725/MBNSF)![GitHub stars](https://img.shields.io/github/stars/kavisha725/MBNSF.svg?logo=github&label=Stars)
+- **[TIV 24]** Let-It-Flow: Simultaneous Optimization of 3D Flow and Object Clustering [[2404.083636]](https://arxiv.org/abs/2404.08363)[[code]](https://github.com/ctu-vras/let-it-flow)[[1-Minute Video]](https://www.youtube.com/watch?v=rJ7QBZW93wY)![GitHub stars](https://img.shields.io/github/stars/ctu-vras/let-it-flow.svg?logo=github&label=Stars)
 - **[ICLR 24]** ZeroFlow: Fast Zero Label Scene Flow via Distillation [[2305.10424]](https://arxiv.org/abs/2305.10424)[[code]](https://github.com/kylevedder/zeroflow)![GitHub stars](https://img.shields.io/github/stars/kylevedder/zeroflow.svg?logo=github&label=Stars)
 - **[[WACV 24](https://openaccess.thecvf.com/content/WACV2024/papers/Chodosh_Re-Evaluating_LiDAR_Scene_Flow_WACV_2024_paper.pdf)]** Re-Evaluating LiDAR Scene Flow for Autonomous Driving [[2304.02150](https://arxiv.org/abs/2304.02150)]
-- **[arXiv]** Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering [[2404.083636]](https://arxiv.org/abs/2404.08363)[[code]](https://github.com/ctu-vras/let-it-flow)![GitHub stars](https://img.shields.io/github/stars/ctu-vras/let-it-flow.svg?logo=github&label=Stars)
 - **[arXiv]** DiffSF: Diffusion Models for Scene Flow Estimation [[2403.05327]](https://arxiv.org/abs/2403.05327)
 
 ## 2023
