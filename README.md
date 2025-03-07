@@ -10,6 +10,8 @@ Awesome-Point-Cloud-Scene-Flow [![Awesome](https://awesome.re/badge.svg)](https:
 Sorted by: the year of official publication; whether open-sourced; and date for first public. Check the dataset section for [scene flow dataset](#dataset).
 
 ---
+## 2025
+- **[CVPR 25]** Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation [[2503.04718]](https://arxiv.org/abs/2503.04718)
 
 ## 2024
 
