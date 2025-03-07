@@ -12,6 +12,8 @@ Sorted by: **whether open-sourced**; the year of official publication; and date 
 We encourage the community to open-source their code to support future research and foster collaboration 🚀. Check some codebases: [KTH-RPL/OpenSceneFlow](https://github.com/KTH-RPL/OpenSceneFlow), [kylevedder/SceneFlowZoo](https://github.com/kylevedder/SceneFlowZoo)
 
 ---
+## 2025
+- **[CVPR 25]** Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation [[2503.04718]](https://arxiv.org/abs/2503.04718)
 
 ## 2025
 - **[ICLR 25]** EulerFlow: Neural Eulerian Scene Flow Fields [[2410.02031]](https://arxiv.org/abs/2410.02031)[[code]](https://github.com/kylevedder/SceneFlowZoo)![GitHub stars](https://img.shields.io/github/stars/kylevedder/SceneFlowZoo.svg?logo=github&label=Stars)
