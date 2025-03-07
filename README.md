@@ -7,9 +7,19 @@ Awesome-Point-Cloud-Scene-Flow [![Awesome](https://awesome.re/badge.svg)](https:
 - welcome to add if any information is missing. 😎
 ```
 
-Sorted by: the year of official publication; whether open-sourced; and date for first public. Check the dataset section for [scene flow dataset](#dataset).
+Sorted by: **whether open-sourced**; the year of official publication; and date for first public. Check the dataset section for [scene flow dataset](#dataset). 
+
+We encourage the community to open-source their code to support future research and foster collaboration 🚀. Check some codebases: [KTH-RPL/OpenSceneFlow](https://github.com/KTH-RPL/OpenSceneFlow), [kylevedder/SceneFlowZoo](https://github.com/kylevedder/SceneFlowZoo)
 
 ---
+
+## 2025
+- **[ICLR 25]** EulerFlow: Neural Eulerian Scene Flow Fields [[2410.02031]](https://arxiv.org/abs/2410.02031)[[code]](https://github.com/kylevedder/SceneFlowZoo)![GitHub stars](https://img.shields.io/github/stars/kylevedder/SceneFlowZoo.svg?logo=github&label=Stars)
+- **[[RA-L 25](https://ieeexplore.ieee.org/document/10887254)]** Flow4D: Leveraging 4D Voxel Network for LiDAR Scene Flow Estimation [[2407.07995]](https://arxiv.org/abs/2407.07995)[[code]](https://github.com/dgist-cvlab/Flow4D)![GitHub stars](https://img.shields.io/github/stars/dgist-cvlab/Flow4D.svg?logo=github&label=Stars)
+- **[ICRA 25]** SSF: Sparse Long-Range Scene Flow for Autonomous Driving [[2501.17821]](https://arxiv.org/abs/2501.17821)[[code]](https://github.com/KTH-RPL/SSF)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/SSF.svg?logo=github&label=Stars)
+- **[arXiv 25]** (SeFlow++) HiMo: High-Speed Objects Motion Compensation in Point Cloud [[2503.00803]](https://arxiv.org/abs/2503.00803)[[code]](https://github.com/KTH-RPL/OpenSceneFlow)![GitHub stars](https://img.shields.io/github/stars/KTH-RPL/OpenSceneFlow.svg?logo=github&label=Stars)
+- **[arXiv 25]** MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation [[2502.16907]](https://arxiv.org/abs/2502.16907)[[code]](https://github.com/SCNU-RISLAB/MambaFlow)![GitHub stars](https://img.shields.io/github/stars/SCNU-RISLAB/MambaFlow.svg?logo=github&label=Stars)
+
 
 ## 2024
 
@@ -108,8 +118,8 @@ Sorted by: the year of official publication; whether open-sourced; and date for 
 ## Dataset
 
 - 2024-02-27: More and more datasets are available for scene flow estimation in autonomous driving (network input: 80k-107k points/frame). The following is a list of datasets that are commonly used in recent papers.
-  - Waymo Open Dataset [official website](https://waymo.com/open/download/), processed available in [SeFlow](https://github.com/KTH-RPL/SeFlow/tree/main/dataprocess), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
-  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/DeFlow/tree/main/dataprocess), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts) and [av2 official](https://github.com/argoverse/av2-api/blob/main/src/av2/torch/data_loaders/scene_flow.py)
+  - Waymo Open Dataset [official website](https://waymo.com/open/download/), processed available in [SeFlow](https://github.com/KTH-RPL/OpenSceneFlow/tree/main/dataprocess), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts)
+  - Argoverse 2.0 [official website](https://www.argoverse.org/index.html), processed available in [DeFlow](https://github.com/KTH-RPL/OpenSceneFlow/tree/main/dataprocess), [ZeroFlow](https://github.com/kylevedder/zeroflow/tree/master/data_prep_scripts) and [av2 official](https://github.com/argoverse/av2-api/blob/main/src/av2/torch/data_loaders/scene_flow.py)
 
 
 - 2020-12-14: Since there is currently **no raw dataset for Scene Flow Estimation with a point cloud as input** (network input: max to 8,192 points/frame), the pioneers [FlowNet3D ](https://github.com/xingyul/flownet3d)and [HPLFlowNet ](https://github.com/laoreja/HPLFlowNet)provide two versions of the dataset based on the raw dataset.
